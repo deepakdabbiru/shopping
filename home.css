@@ -1,0 +1,16 @@
+a*{box-sizing:border-box;}
+
+.container{background:transparent;}
+form{opacity:1;}
+.error{color:#996600;}
+.head{background:#FFCC00; font-family:  sans-Serif;color:white;border-color:#FFCC00;}
+#sony{border-style: solid;
+width:380px;}
+#lenovo{border-style: solid;
+width:480px;}
+#shirts{border-style: solid;
+width:280px;}
+#shoes{border-style: solid;
+width:480px;}
+#lg{border-style: solid;
+width:1080px;}

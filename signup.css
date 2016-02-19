@@ -1,0 +1,6 @@
+*{box-sizing:border-box;}
+body{background-image:url("backpic.jpg");background-position:left;background-attachment: fixed;background-repeat: no-repeat;color:black;background-size: 36%;}
+.container{background:transparent;}
+form{opacity:1;}
+.error{color:red;}
+.head{background:#FFCC00; font-family:  sans-Serif;color:white;border-color:#FFCC00;}

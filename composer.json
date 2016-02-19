@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "shopping\\": "../shopping/"			 
+				}
+    },
+	"require" : {
+    "facebook/php-sdk-v4" : "~5.0"
+			}
+	
+}

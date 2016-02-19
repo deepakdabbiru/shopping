@@ -1,0 +1,5 @@
+*{box-sizing:border-box;}
+body{background-image:url("backpic.jpg");background-position:left;background-attachment: fixed;background-repeat: no-repeat;color:black;background-size: 36%;}
+.container{background:transparent;margin-top:6%;}
+.error{color:red;}
+.head{background:#FFCC00; font-family: "Times New Roman", Georgia, Serif;color:white;border-color:#FFCC00;}
